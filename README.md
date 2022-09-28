@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-Hamyd
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Python to boost up my career 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT to boost up my career 
 - 💞️ I’m looking to collaborate on upcoming projects
 - 📫 I can be reached on my email: abdulhameedhas2020@gmail.com, +2348088152766
 
